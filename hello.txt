@@ -1,0 +1,7 @@
+hello
+this
+is str
+a
+n
+g
+e
